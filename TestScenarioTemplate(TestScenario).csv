@@ -1,0 +1,7 @@
+Test Scenario - ID,Scenario-Description,Requirement ID
+TS-001,Search bus in redbus application,Rs-001
+TS-002,Search bus till 90 days from current date,Rs-2.2
+TS-003,Order of search result,RS-2.3
+TS-004,All field level test cases,Rs-1.2
+TS-005,Colour of the Search button,Rs-3.2
+TS-006,Check browser compatibilty feature,Rs-3.1
